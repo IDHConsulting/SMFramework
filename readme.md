@@ -1,6 +1,6 @@
-# electV
+# SMFramework
 
-Create and manage electronic vouchers and coupons
+Store Manager Framework - maintenance applications for POS
 
 ## Getting Started
 
